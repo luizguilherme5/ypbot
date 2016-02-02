@@ -6,6 +6,7 @@ int main(void) {
 
     printf("Hello, world");
     /* Alteração para teste do commit*/
+    /* Somente esse arquivo permanecera*/
     return (EXIT_SUCCESS);
 }
 
