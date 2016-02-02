@@ -8,7 +8,7 @@ Currently the project it's a initial stage of the project and any improvements w
 For help, questions, bugs or troubles, please contact us!
 Thanks a lot :)
 
-  Development team
+ Development team
   
   Luiz Guilherme - do.guilherme@hotmail.com              
   Cauê Mateus - cauemateus@hotmail.com
