@@ -10,5 +10,5 @@ Thanks a lot :)
 
   Development team
   
-  Luiz Guilherme                Cauê Mateus
-  do.guilherme@hotmail.com      cauemateus@hotmail.com
+  Luiz Guilherme - do.guilherme@hotmail.com              
+  Cauê Mateus - cauemateus@hotmail.com
