@@ -1,6 +1,7 @@
 /* 
  * File:   arena.cpp
- * Author: LuizGuilherme
+ * Author: Luiz Guilherme
+ * Co-Author: Cauê
  *
  * Created on 9 de Fevereiro de 2016, 17:26
  */
